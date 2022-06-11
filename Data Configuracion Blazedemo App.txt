@@ -1,0 +1,10 @@
+Luisa,Riosucio,on
+Juanfe,Pereira,off
+Miguel,Medellin,on
+Cristian,Manizales,on
+Nelly,Ibague,off
+Yesica,Bogota,off
+Julia,Armenia,on
+Jose,Tunja,off
+Tatiana,Cali,on
+Herika,Villavicencio,off
